@@ -39,8 +39,8 @@ export default function ProfileHeader({
 
         <div className="flex justify-center md:justify-start gap-8 mt-4 text-gray-700 font-medium">
           <div className="flex flex-col items-center md:items-start">
-            <span className="text-xl text-indigo-600">{ordersCount}</span>
-            <span className="text-gray-500">Orders</span>
+    
+
           </div>
          
         </div>
